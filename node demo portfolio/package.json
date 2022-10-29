@@ -1,0 +1,11 @@
+{
+  "name": "node-demo-portfolio",
+  "version": "1.0.0",
+  "description": "Thid is a demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abdulazeez Olamide",
+  "license": "ISC"
+}
